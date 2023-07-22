@@ -10,4 +10,5 @@ public class AlgafoodApiApplication {
 		SpringApplication.run(AlgafoodApiApplication.class, args);
 	}
 
+
 }
